@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "testServiceGer"
+  description: "testServiceGer"
+  annotations:
+    github.com/project-slug: "jvaleriano/test-serviceGer"
+    backstage.io/techdocs-ref: github:https://github.com/jvaleriano/test-serviceGer
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "jvaleriano"

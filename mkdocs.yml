@@ -1,0 +1,8 @@
+site_name: "testServiceGer"
+site_description: "testServiceGer"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
